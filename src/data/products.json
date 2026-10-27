@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "Nike Dunk Panda",
+        "description": "Tênis clássico que remete ao basquete e ao skate dos anos 80.",
+        "price": 850,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-FmYUypZ_1mXUbgZzLwfktceNEH3YIy5BqWbdjCS81A&s=10",
+        "category": "sneaker",
+        "rating": 5
+    },
+    {
+        "id": 2,
+        "name": "ADI2000",
+        "description": "Tênis contemporâneo com uma pegada mais jovem.",
+        "price": 800,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjC8vspvBpOa7VXkyDzEZpNNjERveA2HoImI5QCSENtw&s=10",
+        "category": "sneaker",
+        "rating": 4.5
+    },
+    {
+        "id": 3,
+        "name": "Nike Jordan 1",
+        "description": "Tênis da marca do marcante jogador Michael Jordan.",
+        "price": 900,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY8Dqi7OFdKqX90ZOlWh-mIPSOU8DsDdicy7OdlQOIrg&s=10",
+        "category": "sneaker",
+        "rating": 5
+    },
+    {
+        "id": 4,
+        "name": "Adidas Campus",
+        "description": "Tênis baixo com muito estilo.",
+        "price": 650,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrAU1voKC2SIln4QkGCjBFArqqHdFL1spIl4BUUppQSg&s=10",
+        "category": "sneaker",
+        "rating": 5
+    },
+    {
+        "id": 5,
+        "name": "Yeezy Slide",
+        "description": "Chinelo moderno com design minimalista.",
+        "price": 900,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwnKLPAKtp0ReXDdxN-NE7iOoD7EbquUf1E4_O3bS0sQ&s=10",
+        "category": "slide",
+        "rating": 3.5
+    },
+    {
+        "id": 6,
+        "name": "Nike Victori One",
+        "description": "Chinelo moderno com design mais robusto.",
+        "price": 200,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0NKGVDvsYW2-9qlPW88UaNopnLFON4IAuPKCzNb_Ymw&s=10",
+        "category": "slide",
+        "rating": 5
+    },
+    {
+        "id": 7,
+        "name": "Adidas Adilette",
+        "description": "Chinelo moderno com design mais leve.",
+        "price": 220,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNWq3CWkKZPpO46N4-UQyM2805ymKRJjrWBqZU6n4XPw&s=10",
+        "category": "slide",
+        "rating": 5
+    },
+    {
+        "id": 8,
+        "name": "Puma Cool Cat",
+        "description": "Chinelo moderno com design mais exagerado.",
+        "price": 150,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ94OIp2yBULxznIM-TWPQbCM7yrzhmYi4ojsewDNUfQ&s",
+        "category": "slide",
+        "rating": 5
+    }
+]
